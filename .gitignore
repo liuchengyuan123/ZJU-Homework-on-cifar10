@@ -1,0 +1,15 @@
+checkpoint/*.pt
+data/*
+Model/__pycache__
+checkpoint/Wed-Sep-22-07:57:06-2021/final.pt
+checkpoint/Wed-Sep-22-07:57:06-2021/best.pt
+checkpoint/Sat-Sep-18-22:52:27-2021/final.pt
+checkpoint/Tue-Sep-21-16:06:27-2021/final.pt
+checkpoint/Tue-Sep-21-17:00:08-2021/final.pt
+checkpoint/Tue-Sep-21-17:48:20-2021/final.pt
+checkpoint/Tue-Sep-21-18:24:37-2021/best.pt
+checkpoint/Tue-Sep-21-19:21:29-2021/best.pt
+checkpoint/Tue-Sep-21-18:24:37-2021/final.pt
+checkpoint/Tue-Sep-21-19:21:29-2021/final.pt
+checkpoint/Tue-Sep-21-22:52:22-2021/final.pt
+checkpoint/Tue-Sep-21-22:52:22-2021/best.pt
